@@ -1,0 +1,10 @@
+ana3:x:1004:1004:,,,:/home/ana3:/bin/nologin
+ana2:x:998:997::/home/ana2:/bin/sh
+maria:x:1002:1002:Maria,1,1,1,1:/home/maria:/bin/bash
+andrei:x:1001:1001::/home/andrei:/bin/bash
+glances:x:123:127::/var/lib/glances:/usr/sbin/nologin
+sshd:x:122:65534::/run/sshd:/usr/sbin/nologin
+vboxadd:x:999:1::/var/run/vboxadd:/bin/false
+student:x:1000:1000:Student User,,,:/home/student:/bin/bash
+gdm:x:121:125:Gnome Display Manager:/var/lib/gdm3:/bin/false
+gnome-initial-setup:x:120:65534::/run/gnome-initial-setup/:/bin/false
